@@ -14,4 +14,6 @@ Learn how types can help you be a better programmer! We'll learn some functional
 
 [Lecture 3 slides](https://docs.google.com/presentation/d/1Y7F8lrzi9IHRL_xNWjvJ6JVcI-t-nFtAL8XqjTvjg8I/edit?usp=sharing)
 
+[Lecture 4 slides](https://docs.google.com/presentation/d/19svWPCPIaUn0EbPsZ7KLbYAplI7LqYgm0TtbfkVSk9U/edit?usp=sharing)
+
 These sessions were offered during MIT's Independent Activities Period in January 2023. This webpage was last updated on January 2023.
